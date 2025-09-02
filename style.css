@@ -59,7 +59,6 @@ h1 {
     background-color: #0056b3;
 }
 
-/* Para telas menores */
 @media (max-width: 500px) {
     .container {
         padding: 1.5rem;
@@ -72,4 +71,5 @@ h1 {
     .image-box {
         height: 250px;
     }
+
 }
